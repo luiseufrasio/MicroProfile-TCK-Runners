@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tck-arquillian-extension (2) (fish.payara.microprofile.jwt-auth)" />
+        <module name="health-tck" />
+        <module name="default" />
+        <module name="jwt-auth-tck" />
+        <module name="tck-arquillian-extension (1) (fish.payara.microprofile.health)" />
+        <module name="metrics-tck" />
+        <module name="tck-arquillian-extension (3) (fish.payara.microprofile.rest-client)" />
+        <module name="ft-tck" />
+        <module name="openapi-tck" />
+        <module name="config-tck" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

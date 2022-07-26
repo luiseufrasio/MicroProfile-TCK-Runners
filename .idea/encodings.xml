@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/MicroProfile-Config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Fault-Tolerance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Fault-Tolerance/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Health/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Health/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Health/tck-arquillian-extension/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Health/tck-arquillian-extension/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Health/tck-runner/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Health/tck-runner/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-JWT-Auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-JWT-Auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-JWT-Auth/tck-arquillian-extension/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-JWT-Auth/tck-arquillian-extension/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-JWT-Auth/tck-runner/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-JWT-Auth/tck-runner/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Metrics/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Metrics/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-OpenAPI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-OpenAPI/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Rest-Client/arquillian-extension/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Rest-Client/arquillian-extension/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Rest-Client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Rest-Client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Rest-Client/tck-runners/default/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Rest-Client/tck-runners/default/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Rest-Client/tck-runners/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroProfile-Rest-Client/tck-runners/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
